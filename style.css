@@ -50,3 +50,14 @@ p.cart-empty.woocommerce-info {
     color: #fff;
     background-color: #8e8e8e;
 }
+
+/*seventh mod */
+.navbar.navbar-transparent > .container {
+    padding-top: 25px;
+    background: #272727;
+}
+.navbar.navbar-transparent {
+    background: #272727;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
