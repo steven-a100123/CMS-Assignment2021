@@ -70,3 +70,13 @@ h1.hestia-title {
 a.btn.btn-primary {
 	color:black;
 }
+
+/*tenth mod*/
+
+footer.footer.footer-black h5, footer.footer.footer-black h4, footer.footer.footer-black i, footer.footer.footer-black .copyright {
+    color: #f9f9f9;
+	font-weight:bold;
+	font-size:30px;
+	font-family:Parkavenue, cursive;
+	font-style:italic;
+}
