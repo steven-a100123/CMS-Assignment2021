@@ -1,0 +1,16 @@
+/*
+Theme Name: Hestia Child 2
+Theme URI: https://www.themeisle.com/
+Description: This is a custom child theme I have created.
+Author: ThemeIsle
+URI: https://www.localhost:8084/wp/
+Template: hestia    
+Version: 0.1
+*/
+
+
+/* first mod */
+html {
+    background-color: black;
+}
+
