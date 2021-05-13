@@ -65,3 +65,8 @@ p.cart-empty.woocommerce-info {
 h1.hestia-title {
 	text-shadow:5px 5px #030303;
 }
+
+/*ninth mod*/
+a.btn.btn-primary {
+	color:black;
+}
