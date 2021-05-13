@@ -46,3 +46,7 @@ div.woocommerce-info {
     color: #fff;
     background-color: #8e8e8e;
 }
+p.cart-empty.woocommerce-info {
+    color: #fff;
+    background-color: #8e8e8e;
+}
