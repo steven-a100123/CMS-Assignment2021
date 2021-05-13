@@ -19,3 +19,9 @@ html {
 footer.footer.footer-black.footer-big {
 	background: black;
 }
+
+/*third mod */
+.navbar .navbar-header .navbar-brand img {
+    width: auto;
+    max-height: 150px;
+}
