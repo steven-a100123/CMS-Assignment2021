@@ -25,3 +25,9 @@ footer.footer.footer-black.footer-big {
     width: auto;
     max-height: 150px;
 }
+
+/*fourth mod */
+.hestia-about {
+    background-attachment: fixed;
+    color: #000000;
+}
