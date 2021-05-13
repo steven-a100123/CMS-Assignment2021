@@ -38,3 +38,11 @@ input#um_account_submit_general.um-button {
 	background:#929292;
 	color:white;
 }
+
+
+/*sixth mod */
+
+div.woocommerce-info {
+    color: #fff;
+    background-color: #8e8e8e;
+}
